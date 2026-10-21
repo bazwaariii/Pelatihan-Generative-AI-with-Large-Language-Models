@@ -1,0 +1,1 @@
+[https://huggingface.co/bazwa/llama-3-8b-indonesian-sft]
